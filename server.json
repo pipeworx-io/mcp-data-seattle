@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-seattle",
   "title": "Data Seattle",
   "description": "DataSeattle MCP — Seattle open data (data.seattle.gov, Socrata SODA API).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-seattle",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-seattle",
